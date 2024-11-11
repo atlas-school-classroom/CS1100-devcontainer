@@ -35,4 +35,4 @@ $ docker --version
 
 ![](./assets/dev-container-2.png)
 
-4. After the build completes, VS Code will automatically connect to the container. Your terminal should for ubuntu linux no matter what your computer operating system is and all necessary tools shoul dbe installed for you.
+4. After the build completes, VS Code will automatically connect to the container. Your terminal should for ubuntu linux no matter what your computer operating system is and all necessary tools should be installed for you.
